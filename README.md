@@ -1,8 +1,5 @@
-# Hi 👋 I am Pratik! 
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
-
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
-- ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
+# Hi 👋 I am Isaac! 
+Hi, I’m Isaac, a Full Stack Web Developer. I have experience handling the full process of building a website, but right now I’m focusing on developing my skills in backend. I’m really excited to join any project that helps me keep growing and learning.
 
 ---
 

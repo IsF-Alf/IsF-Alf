@@ -1,5 +1,4 @@
-#Hi 👋 I am Isaac! 
-Hi, I’m Isaac, a Full Stack Web Developer. I have experience handling the full process of building a website, but right now I’m focusing on developing my skills in backend. I’m really excited to join any project that helps me keep growing and learning.
+#Hi 👋 I am Isaac! a Full Stack Web Developer. I have experience handling the full process of building a website, but right now I’m focusing on developing my skills in backend. I’m really excited to join any project that helps me keep growing and learning.
 
 ---
 

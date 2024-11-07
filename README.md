@@ -9,3 +9,4 @@ Hi, I’m Isaac, a Full Stack Web Developer. I have experience handling the full
 </p>
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsF-Alf&layout=compact&theme=dark)

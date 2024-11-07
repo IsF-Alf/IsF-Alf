@@ -5,8 +5,8 @@ Hi, I’m Isaac, a Full Stack Web Developer. I have experience handling the full
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IsF-Alf&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IsF-Alf&theme=dark&hide_border=true" width="400">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsF-Alf&layout=compact&theme=dark">
 </p>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsF-Alf&layout=compact&theme=dark)
+
